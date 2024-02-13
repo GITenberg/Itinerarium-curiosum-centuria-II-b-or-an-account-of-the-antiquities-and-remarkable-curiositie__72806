@@ -1,0 +1,55 @@
+_repo: Itinerarium-curiosum-centuria-II-b-or-an-account-of-the-antiquities-and-remarkable-curiositie__72806
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Richard, of Cirencester
+    gutenberg_agent_id: '56820'
+    url: http://www.gutenberg.org/2009/agents/56820
+    wikipedia: https://en.wikipedia.org/wiki/Richard_of_Cirencester
+  forger:
+    agent_name: Bertram, Charles
+    aliases:
+    - Bertram, Charles Julius
+    - Bertram, Carl
+    birthdate: 1723
+    deathdate: 1765
+    gutenberg_agent_id: '56810'
+    url: http://www.gutenberg.org/2009/agents/56810
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Bertram
+creator:
+  author:
+    agent_name: Stukeley, William
+    birthdate: 1687
+    deathdate: 1765
+    gutenberg_agent_id: '51491'
+    url: http://www.gutenberg.org/2009/agents/51491
+    wikipedia: https://en.wikipedia.org/wiki/William_Stukeley
+description: '"Ricardi monachi westmonasteriensis commentarioli geographici de situ
+  Brittaniæ": v. 2, p. 79-108. This is the famous forgery published by Charles Bertram
+  in 1757, claimed by him to be copied from a manuscript written by Richard of Cirencester.'
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72806'
+language: en
+pgterms:marc904: https://archive.org/details/itinerariumcurio12stuk/page/n535
+pgterms:marc905: 20190110053849stukeley
+pgterms:marc906: '1776'
+pgterms:marc907: GB
+production_note: Tim Lindell, Robert Tonsing, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bBaker and Leigh, $c1776.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel -- Early works to 1800'
+- !lcsh 'Great Britain -- Antiquities -- Early works to 1800'
+- !lcc 'DA'
+- GITenberg
+title: 'Itinerarium curiosum (centuria II) : $b or, an account of the antiquities,
+  and remarkable curiosities in nature or art, observed in travels through Great Britain.
+  To which is added, the Itinerary of Richard of Cirencester, monk of Westminster.
+  With an account of that author and his work'
+url: http://www.gutenberg.org/ebooks/72806
